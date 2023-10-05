@@ -4,7 +4,7 @@
 
 This project aims to explore and analyze housing trends in the United States by utilizing data from various sources, including the Internal Revenue Service (IRS), Zillow, and Freddie Mac. By examining key indicators such as adjusted gross income (AGI) percentile data, housing market statistics, and mortgage rates, we aim to provide valuable insights into the state of the housing market.
 
-Included in the repo is a presentation made on housing trends and their relationship to supply and demand dynamics.  For a detailed analysis of the relationship between income and housing in Austin, TX, check out my Medium blog ["A Vulgar Display of Purchasing Power"](https://medium.com/@grantkerkman/a-vulgar-display-of-purchasing-power-7b0e9544e9c7).
+Included in the repo is a presentation made on housing trends and their relationship to supply and demand dynamics.  For a detailed analysis of the relationship between income and housing in Austin, TX, check out my Medium blog ["A Vulgar Display of (purchasing) Power"](https://medium.com/@grantkerkman/a-vulgar-display-of-purchasing-power-7b0e9544e9c7).
 
 ## Data Sources
 
@@ -35,7 +35,7 @@ In this project, we explored several aspects of the housing market, including:
 
 ## Results
 
-Our analysis uncovered several key findings, which are detailed in a Medium post titled ["A Vulgar Display of Purchasing Power"](https://medium.com/@grantkerkman/a-vulgar-display-of-purchasing-power-7b0e9544e9c7). In this post, we present our insights and visualizations, making the data-driven analysis accessible to a broader audience.
+Our analysis uncovered several key findings, which are detailed in a Medium post titled ["A Vulgar Display of (purchasing) Power"](https://medium.com/@grantkerkman/a-vulgar-display-of-purchasing-power-7b0e9544e9c7). In this post, we present our insights and visualizations, making the data-driven analysis accessible to a broader audience.
 
 ## Conclusion
 
