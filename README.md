@@ -36,11 +36,3 @@ In this project, we explored several aspects of the housing market, including:
 ## Results
 
 Our analysis uncovered several key findings, which are detailed in a Medium post titled ["A Vulgar Display of (purchasing) Power"](https://medium.com/@grantkerkman/a-vulgar-display-of-purchasing-power-7b0e9544e9c7). In this post, we present our insights and visualizations, making the data-driven analysis accessible to a broader audience.
-
-## Conclusion
-
-The housing market is a complex ecosystem influenced by a myriad of factors, including income distribution and mortgage rates. By leveraging data from the IRS, Zillow, and Freddie Mac, this project provides a comprehensive understanding of housing trends in the United States. We hope that our findings and visualizations can serve as a valuable resource for individuals and organizations interested in the dynamics of the housing market.
-
-For any questions, feedback, or collaboration opportunities, please contact us at [your.email@example.com].
-
-Thank you for your interest in our housing trends analysis project!
